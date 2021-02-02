@@ -1,1 +1,1 @@
-This data is originally from DQLab (dqlab.id)
+This data is originally from DQLab (https://www.dqlab.id/)
